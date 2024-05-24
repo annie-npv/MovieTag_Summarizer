@@ -1,5 +1,6 @@
-# netflix_prediction
+# Movie Prediction
 
+In this project, each movie is associated with multiple user-generated tags. The objective is to develop a SAS macro program that takes a specific movie as input and generates a concise list of keywords. These keywords serve as a summary of the diverse tags attributed to the chosen movie, providing valuable insights into its content and user-generated metadata.
 
 README file of the dataset, provided by the University of Minnesota:
 
